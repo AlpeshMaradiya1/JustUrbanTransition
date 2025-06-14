@@ -1,8 +1,8 @@
 # JustUrbanTransition
-A data-driven approach to identify climate-vulnerable communities in Delhi using spatial, environmental, and socioeconomic indicators.
+A Sample data-driven approach to identify climate-vulnerable communities in City using spatial, environmental, and socioeconomic indicators.
 
 🔍 Overview
-This project develops a Just Transition Index (JTI) for Delhi's municipal wards by integrating:
+This project develops a Just Transition Index (JTI) for City's municipal wards by integrating:
 
 Air Quality Index (AQI)
 Average Summer Temperature
