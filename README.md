@@ -1,6 +1,9 @@
 # JustUrbanTransition
 A Sample data-driven approach to identify climate-vulnerable communities in City using spatial, environmental, and socioeconomic indicators.
 
+![JUT](https://github.com/user-attachments/assets/3700bfaf-5244-4258-8af0-d5681f1f1cd8)
+
+
 🔍 Overview
 This project develops a Just Transition Index (JTI) for City's municipal wards by integrating:
 
